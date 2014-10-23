@@ -1,4 +1,4 @@
-vestacp-theme-louis
+Vesta Control Panel with Louis
 ===================
 
 Vestacp with professional theme!
